@@ -1,6 +1,6 @@
 '''Count Lines in a File
 Problem Statement:
-Write a pougnan which accopts a file name on the user  and counts how many lines are present in the file.
+Write a program which accopts a file name on the user  and counts how many lines are present in the file.
 Input: Demo-txt
 Expected Output:
 Total nummber of lines in Demo.txt'''
